@@ -1,0 +1,84 @@
+24/03/2018 1:15:14 p. m.	Este registro contiene información acerca de la operación de importación de esquema en el proyecto 'Biblioteca' del equipo 'AEPIS17' por el usuario 'AEPIS17'.
+24/03/2018 1:15:14 p. m.	Se inició la importación del esquema de la base de datos.
+24/03/2018 1:15:18 p. m.	Recopilando credenciales de la base de datos
+24/03/2018 1:15:18 p. m.	Recopilando opciones de base de datos
+24/03/2018 1:15:18 p. m.	Recopilando usuarios
+24/03/2018 1:15:18 p. m.	Recopilando roles
+24/03/2018 1:15:18 p. m.	Recopilando roles de aplicación
+24/03/2018 1:15:18 p. m.	Recopilando pertenencias a roles
+24/03/2018 1:15:18 p. m.	Recopilando grupos de archivos
+24/03/2018 1:15:18 p. m.	Recopilando catálogos de texto completo
+24/03/2018 1:15:18 p. m.	Recopilando ensamblados
+24/03/2018 1:15:18 p. m.	Recopilando certificados
+24/03/2018 1:15:18 p. m.	Recopilando claves asimétricas
+24/03/2018 1:15:18 p. m.	Recopilando claves simétricas
+24/03/2018 1:15:18 p. m.	Recopilando claves simétricas cifradas
+24/03/2018 1:15:18 p. m.	Recopilando esquemas
+24/03/2018 1:15:18 p. m.	Recopilando colecciones de esquemas XML
+24/03/2018 1:15:18 p. m.	Recopilando tipos de datos definidos por el usuario
+24/03/2018 1:15:18 p. m.	Recopilando tipos definidos por el usuario
+24/03/2018 1:15:18 p. m.	Recopilando tipos de tabla
+24/03/2018 1:15:18 p. m.	Recopilando claves únicas para tipos de tabla
+24/03/2018 1:15:18 p. m.	Recopilando claves principales para tipos de tabla
+24/03/2018 1:15:18 p. m.	Recopilando índices para tipos de tablas
+24/03/2018 1:15:18 p. m.	Recopilando restricciones CHECK para tipos de tabla
+24/03/2018 1:15:18 p. m.	Recopilando restricciones DEFAULT para tipos de tabla
+24/03/2018 1:15:18 p. m.	Recopilando funciones de partición
+24/03/2018 1:15:18 p. m.	Recopilando esquemas de partición
+24/03/2018 1:15:18 p. m.	Recopilando funciones
+24/03/2018 1:15:18 p. m.	Recopilando funciones cifradas
+24/03/2018 1:15:18 p. m.	Recopilando agregados
+24/03/2018 1:15:18 p. m.	Recopilando procedimientos
+24/03/2018 1:15:18 p. m.	Recopilando procedimientos cifrados
+24/03/2018 1:15:18 p. m.	Recopilando tablas
+24/03/2018 1:15:18 p. m.	Recopilando claves principales
+24/03/2018 1:15:18 p. m.	Recopilando restricciones UNIQUE
+24/03/2018 1:15:18 p. m.	Recopilando claves externas
+24/03/2018 1:15:18 p. m.	Recopilando restricciones DEFAULT
+24/03/2018 1:15:18 p. m.	Recopilando restricciones CHECK
+24/03/2018 1:15:18 p. m.	Recopilando vistas
+24/03/2018 1:15:18 p. m.	Recopilando vistas cifradas
+24/03/2018 1:15:18 p. m.	Recopilando índices
+24/03/2018 1:15:18 p. m.	Recopilando estadísticas
+24/03/2018 1:15:18 p. m.	Recopilando listas de palabras irrelevantes de índices de texto completo
+24/03/2018 1:15:18 p. m.	Recopilando listas de propiedades de búsqueda
+24/03/2018 1:15:18 p. m.	Recopilando propiedades de búsqueda
+24/03/2018 1:15:18 p. m.	Recopilando índices de texto completo
+24/03/2018 1:15:18 p. m.	Recopilando índices de almacenamiento de columnas
+24/03/2018 1:15:18 p. m.	Recopilando índices espaciales
+24/03/2018 1:15:18 p. m.	Recopilando índices XML
+24/03/2018 1:15:18 p. m.	Recopilando índices XML selectivos
+24/03/2018 1:15:18 p. m.	Recopilando desencadenadores cifrados
+24/03/2018 1:15:18 p. m.	Recopilando desencadenadores
+24/03/2018 1:15:18 p. m.	Recopilando DDL triggers cifrados y de CLR
+24/03/2018 1:15:18 p. m.	Recopilando DDL triggers
+24/03/2018 1:15:18 p. m.	Recopilando sinónimos
+24/03/2018 1:15:18 p. m.	Recopilando valores predeterminados
+24/03/2018 1:15:18 p. m.	Recopilando enlaces UDDT de restricción de datos
+24/03/2018 1:15:18 p. m.	Recopilando reglas
+24/03/2018 1:15:18 p. m.	Recopilando enlaces UDDT de restricción de datos
+24/03/2018 1:15:18 p. m.	Recopilando tipos de mensaje
+24/03/2018 1:15:18 p. m.	Recopilando colas
+24/03/2018 1:15:18 p. m.	Recopilando contratos
+24/03/2018 1:15:18 p. m.	Recopilando servicios
+24/03/2018 1:15:18 p. m.	Recopilando notificaciones de eventos
+24/03/2018 1:15:18 p. m.	Recopilando enlaces de servicio remoto
+24/03/2018 1:15:18 p. m.	Recopilando prioridades de Broker
+24/03/2018 1:15:18 p. m.	Recopilando firmas
+24/03/2018 1:15:18 p. m.	Recopilando opciones de compresión de datos
+24/03/2018 1:15:18 p. m.	Recopilando tipos de secuencia
+24/03/2018 1:15:18 p. m.	Recopilando directivas de seguridad
+24/03/2018 1:15:18 p. m.	Recopilar claves de cifrado de columna
+24/03/2018 1:15:18 p. m.	Recopilando claves maestras de columna
+24/03/2018 1:15:18 p. m.	Recopilando orígenes de datos externos
+24/03/2018 1:15:18 p. m.	Recopilando formatos de archivo externos
+24/03/2018 1:15:18 p. m.	Recopilando tablas externas
+24/03/2018 1:15:18 p. m.	Recopilando propiedades extendidas
+24/03/2018 1:15:18 p. m.	Recopilando credenciales
+24/03/2018 1:15:18 p. m.	Recopilando inicios de sesión
+24/03/2018 1:15:18 p. m.	Recopilando auditorías de servidor
+24/03/2018 1:15:18 p. m.	Buscando elementos duplicados en el proyecto
+24/03/2018 1:15:18 p. m.	Ha finalizado el procesamiento de los elementos duplicados
+24/03/2018 1:15:19 p. m.	Finalizó la importación de la base de datos.
+24/03/2018 1:15:19 p. m.	Se guardó un resumen de la importación en la siguiente ubicación: c:\users\aepis01\documents\visual studio 2017\Projects\Biblioteca\Biblioteca\Registros de importación de esquemas\Biblioteca_20180324061514.log
+24/03/2018 1:15:19 p. m.	Haga clic en Finalizar para continuar...
